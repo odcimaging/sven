@@ -5,9 +5,9 @@ export default function KitchenShowcase () {
   const [activeSlide, setActiveSlide] = useState(0)
 
   const slides = [
-    '/public/as/slide1.png',
-    '/public/as/slide2.png',
-    '/public/as/slide3.png'
+    'slide1.png',
+    'slide2.png',
+    'slide3.png'
   ]
 
   const nextSlide = useCallback(() => {

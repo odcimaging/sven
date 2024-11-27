@@ -29,7 +29,7 @@ export default function Odc6 () {
             </h2>
             <div>
               <img
-                src='/public/as/cbw.png'
+                src='cbw.png'
                 alt='CBW Certification'
                 className='w-32 sm:w-1/2 self-end sm:self-start'
               />

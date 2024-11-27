@@ -10,7 +10,7 @@ export default function Odc7 () {
           <div className='md:order-2 w-full md:w-1/2'>
             <div className='relative rounded-lg overflow-hidden aspect-[5/4]'>
               <img
-                src='/public/as/image-removebg-preview1.png'
+                src='image-removebg-preview1.png'
                 alt='Woman in kitchen with wooden utensil'
                 className='md:pt-4 md:pb-4 w-full h-full'
               />

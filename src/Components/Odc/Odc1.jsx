@@ -7,7 +7,7 @@ export default function Navbar () {
         <div className='flex justify-between items-center py-4'>
           <div className='flex flex-col'>
             <img
-              src='/public/as/logo-intereno.png'
+              src='logo-intereno.png'
               alt='Intereno Logo'
               className='w-auto h-8 sm:h-8 md:h-10'
             />
@@ -18,7 +18,7 @@ export default function Navbar () {
 
           <div className='flex items-center space-x-1 sm:space-x-2'>
             <img
-              src='/public/as/trustpilot-beoordeling.png'
+              src='trustpilot-beoordeling.png'
               alt='Trustpilot'
               className='w-auto h-4 sm:h-8 md:h-8'
             />

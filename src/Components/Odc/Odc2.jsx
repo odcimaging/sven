@@ -7,7 +7,7 @@ export default function Odc2 () {
       {/* Video Section - Separate block on mobile */}
       <div className='sm:hidden mb-4 rounded-lg w-full overflow-hidden'>
         <video controls className='w-full aspect-video'>
-          <source src='/public/as/background.mp4' type='video/mp4' />
+          <source src='background.mp4' type='video/mp4' />
           Your browser does not support the video tag.
         </video>
       </div>
@@ -21,7 +21,7 @@ export default function Odc2 () {
           playsInline
           className='left-0 absolute mt-20 w-full h-[60vh] object-cover'
         >
-          <source src='/public/as/background.mp4' type='video/mp4' />
+          <source src='background.mp4' type='video/mp4' />
           Your browser does not support the video tag.
         </video>
       </div>

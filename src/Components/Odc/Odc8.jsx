@@ -49,7 +49,7 @@ export default function Odc8 () {
           <div className='md:block hidden md:w-1/2'>
             <div className='flex flex-col gap-4'>
               <img
-                src='/public/as/trustpilot-beoordeling.png'
+                src='trustpilot-beoordeling.png'
                 alt='Trustpilot'
                 className='md:mt-12 w-96 h-10'
               />
